@@ -5,8 +5,9 @@ This repository showcases code examples for interacting with the OpenAI API, han
 
 ---
 
-## Compatability
+## Compatibility
 This repo was developed using .Net 7.0
+
 This repo was built in Visual Studio, but can be used in Visual Studio Code
 
 ## Dependencies
