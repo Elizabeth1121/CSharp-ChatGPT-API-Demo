@@ -37,4 +37,4 @@ This repo requires the OpenAPI Package to use this repo
 ---
 
 ### License
-This repo dose not have a license
+This repo does not have a license.
